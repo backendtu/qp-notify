@@ -7,10 +7,10 @@ games      { 'gta5' }
 name         'qp-notify'
 authors      'qpr'
 version      '1.0.0'
-repository   'https://github.com/ohqpr/qqp-notify'
+repository   'https://github.com/ohqpr/qp-notify'
 description  'Notification system'
 
-client_scripts 'cient.lua'
+client_scripts 'client.lua'
 ui_page        './web/ui.html' 
 
 files {
